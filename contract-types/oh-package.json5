@@ -1,0 +1,9 @@
+{
+  "name": "@huntercat/ark-contract-types",
+  "version": "1.0.0",
+  "description": "鸿蒙共享契约层（contract-types → ArkTS，生成器产出）",
+  "main": "Index.ets",
+  "author": "HUNTERCAT-DIGITAL",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

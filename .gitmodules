@@ -1,0 +1,3 @@
+[submodule "open/contract-types"]
+	path = open/contract-types
+	url = git@github.com:HUNTERCAT-DIGITAL/lieshou-contract-types.git

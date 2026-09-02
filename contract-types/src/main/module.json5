@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "contract_types",
+    "type": "har",
+    "description": "$string:module_desc",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}

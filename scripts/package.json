@@ -1,0 +1,8 @@
+{
+  "name": "gen-ark",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "typescript": "^5.6.0"
+  }
+}
