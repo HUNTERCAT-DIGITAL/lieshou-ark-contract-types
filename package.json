@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@ohos/hypium": "1.0.23",
-    "@ohos/hvigor": "6.26.4",
-    "@ohos/hvigor-ohos-plugin": "6.26.4"
+    "@ohos/hvigor": "6.24.4",
+    "@ohos/hvigor-ohos-plugin": "6.24.4"
   }
 }
