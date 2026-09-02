@@ -1,5 +1,5 @@
 {
-  "modelVersion": "26.0.0",
+  "modelVersion": "6.1.1",
   "description": "lieshou-ark-contract-types 工程（HAR 模块 contract-types/）",
   "dependencies": {},
   "devDependencies": {}
